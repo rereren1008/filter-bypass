@@ -4,7 +4,7 @@
 ファイルでも使用できるのでダウンロードリンクを貼っておきます！
 私はChromebookのバージョンが129ですが、規制を回避できました！
 ### サイトのリンク
-Githubで作成: https://rereren1008.github.io/filter-bypass/
+GitHubで作成: https://rereren1008.github.io/filter-bypass/
 <br> Netlifyで作成: https://reren1008-filter-bypass.netlify.app/
 <br> Vercelで作成: https://reren1008-filter-bypass.vercel.app/
 <br> Glitchで作成: https://reren1008-filter-bypassing.glitch.me/
@@ -20,7 +20,7 @@ You can use this site to bypass the restrictions on school computers! You can ge
 You can also use it as a file and I will post the download link!
 My Chromebook version is 129 and I was able to use it!
 ### Site Links
-Github Hosted: https://rereren1008.github.io/filter-bypass/
+GitHub Hosted: https://rereren1008.github.io/filter-bypass/
 <br> Netlify Hosted: https://reren1008-filter-bypass.netlify.app/
 <br> Vercel Hosted: https://reren1008-filter-bypass.vercel.app/
 <br> Glitch Hosted: https://reren1008-filter-bypassing.glitch.me/
