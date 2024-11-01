@@ -3,6 +3,12 @@
 このサイトを使用して学校のパソコンの規制を回避することができます！サイトに書いてあることを手順通りにすれば回避することができます！下にリンクが貼ってあります！
 ファイルでも使用できるのでダウンロードリンクを貼っておきます！
 私はChromebookのバージョンが129ですが、規制を回避できました！
+### サイトをDeploy
+[![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/rereren1008/filter-bypass/)
+[![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/rereren1008/filter-bypass)
+[![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/rereren1008/filter-bypass)
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/rereren1008/filter-bypass)
+[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/rereren1008/filter-bypass)
 ### サイトのリンク
 GitHubで作成: https://rereren1008.github.io/filter-bypass/
 <br> Netlifyで作成: https://reren1008-filter-bypass.netlify.app/
@@ -19,6 +25,12 @@ Mediafire: https://www.mediafire.com/file/wb8s0xq4vad3sxm/BypassFilter.html/file
 You can use this site to bypass the restrictions on school computers! You can get around it by following the steps on the site! The link is below!
 You can also use it as a file and I will post the download link!
 My Chromebook version is 129 and I was able to use it!
+### Deploy Sites
+[![Remix on Glitch](https://binbashbanana.github.io/deploy-buttons/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/rereren1008/filter-bypass/)
+[![Deploy with Vercel](https://binbashbanana.github.io/deploy-buttons/buttons/remade/vercel.svg)](https://vercel.com/new/clone?repository-url=https://github.com/rereren1008/filter-bypass)
+[![Deploy with Netlify](https://binbashbanana.github.io/deploy-buttons/buttons/remade/netlify.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/rereren1008/filter-bypass)
+[![Deploy to Render](https://binbashbanana.github.io/deploy-buttons/buttons/remade/render.svg)](https://render.com/deploy?repo=https://github.com/rereren1008/filter-bypass)
+[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/rereren1008/filter-bypass)
 ### Site Links
 GitHub Hosted: https://rereren1008.github.io/filter-bypass/
 <br> Netlify Hosted: https://reren1008-filter-bypass.netlify.app/
